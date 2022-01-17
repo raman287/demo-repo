@@ -1,3 +1,3 @@
 # First Project Demo
 
-First Project using Git
+First Project using GitHub
